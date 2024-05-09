@@ -1,0 +1,22 @@
+html,body{
+	max-width: 100%;
+	overflow-x: hidden;
+}
+
+
+.App {
+  text-align: center;
+}
+
+.bgcolor{
+	background-color: darkblue;
+	height: 100vh;
+}
+
+.submit-btn{
+	border: 0;
+	background-color: darkblue;
+	padding: 10px 60px;
+	color: aliceblue;
+	border-radius: 5px;
+}
